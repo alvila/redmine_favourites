@@ -1,3 +1,7 @@
-= alvila_addons
+= Redmine Favorities
 
-Description goes here
+Bookmarking favourite tasks by Like button with Query inclusion
+
+= Install
+
+script/plugin install git://github.com/alvila/redmine_favourites.git
